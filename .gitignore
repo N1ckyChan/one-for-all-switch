@@ -1,0 +1,13 @@
+.dotnet-sdk/
+bin/
+obj/
+dist/
+Deskflow/
+deskflow-package/
+.cache/
+artifacts/
+*.log
+*.user
+*.suo
+.vs/
+config.json
